@@ -1,0 +1,4 @@
+This repository contains a Dockerfile for an image that periodically rebuilds
+the QEMU HTML documentation.
+
+Written by Stefan Hajnoczi <stefanha@redhat.com>
